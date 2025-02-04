@@ -1,6 +1,5 @@
 ![Front-End Web Developer](https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/471546819_2584270808435736_2274969574795758737_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHOm5p-MKE5j2CmmrDaR_pAzeXXOmEilbfN5dc6YSKVt1I4tkCDXXsG_DpQtWPCI2cdI4aylJJOasVHOWjv2Ru_&_nc_ohc=KetbI32Pxf8Q7kNvgFhJNeS&_nc_zt=23&_nc_ht=scontent.fjsr17-1.fna&_nc_gid=AV0VahabEpAEoPVqfYvgPY6&oh=00_AYAbuIVgSYYf_i3PJ7U-bYTfwQ5QD_H_g58opjWb5s3jjA&oe=67A53F64)
 
-
 # 👋 Hi there! I'm **Md Mueid Mia**  
 ## 🚀 Front-End Web Developer | Back-end Developer | Crafting Modern Web Experiences  
 
@@ -62,20 +61,14 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 
 ### <h3 align="center">📈 Stats & Achievements</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; max-width: 800px; margin: 0 auto;">
-  <a href="https://git.io/streak-stats" style="display: block; flex: 1; text-align: center;">
-    <img src="https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 350px; border-radius: 8px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
+  <a href="https://git.io/streak-stats" style="display: block; flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical" alt="GitHub Streak" style="width: 100%; border-radius: 8px;">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block; flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 350px; border-radius: 8px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block; flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; border-radius: 8px;">
   </a>
 </div>
-
-
-
-
-
-
 
 ---
 
