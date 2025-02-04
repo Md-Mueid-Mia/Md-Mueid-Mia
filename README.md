@@ -34,9 +34,4 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 ### **📈 Stats & Achievements**  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical)](https://git.io/streak-stats)  
 [![Md Mueid Mia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mueid-Mia&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
-### 🏆 **Trophies**  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Md-Mueid-Mia&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
+ 
