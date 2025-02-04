@@ -7,6 +7,16 @@ I'm a passionate **Front-End Web Developer** with **1 year of professional exper
 
 I strive to create **clean, responsive, and engaging user interfaces** while keeping up with the latest web development trends. Whether it's working solo or collaborating in a team, I bring creativity, precision, and dedication to every project.  
 
+
+
+### **🌟 Current Focus**  
+- 🔭 Currently working on **RecoSphere.com**  
+- 🌱 Exploring **Next.js** for building faster, SEO-friendly apps  
+- 👯 Looking to collaborate on innovative **open-source projects**  
+- 💬 Feel free to reach out about **Web Development, React, or Full-Stack solutions**  
+
+---
+
 <h3 align="center">💻 Coding Languages</h3>
 
 ###
@@ -53,14 +63,6 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
-
-### **🌟 Current Focus**  
-- 🔭 Currently working on **RecoSphere.com**  
-- 🌱 Exploring **Next.js** for building faster, SEO-friendly apps  
-- 👯 Looking to collaborate on innovative **open-source projects**  
-- 💬 Feel free to reach out about **Web Development, React, or Full-Stack solutions**  
-
----
 
 ### 📫 **Get in Touch**  
 - **Email:** mdmueidmia@gmail.com  
