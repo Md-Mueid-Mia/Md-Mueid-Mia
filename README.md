@@ -62,9 +62,7 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 ### <h3 align="center">📈 Stats & Achievements</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
-  <a href="[https://git.io/streak-stats](https://nirzak-streak-stats.vercel.app?user=&theme=tokyonight)" style="display: inline; flex: 1; min-width: 48%; text-align: center;">
-    <img src="[https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical](https://git.io/streak-stats)" alt="GitHub Streak" style="; border-radius: 8px;">
-  </a>
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=&theme=dark)](https://git.io/streak-stats)
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline; flex: 1; min-width: 48%; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style=" border-radius: 8px;">
   </a>
