@@ -64,14 +64,32 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 </div>
 
 
-### 📫 **Get in Touch**  
-- **Email:** mdmueidmia@gmail.com  
-- **GitHub:** [Md-Mueid-Mia](https://github.com/Md-Mueid-Mia)  
-- **LinkedIn:** [Md Mueid Mia](https://www.linkedin.com/in/md-mueid-mia-7a4287254/)  
+<h3 align="center">📫 Get in Touch</h3>
 
----
+###
 
-### **📈 Stats & Achievements**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical)](https://git.io/streak-stats)  
-[![Md Mueid Mia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
- 
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-mueid-mia" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/mdmueidmia" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mdmueidmia@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+
+
+###  <h2 style="color: #ff4d4d; margin-bottom: 20px;">📈 Stats & Achievements</h2>
+
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+        <a href="https://git.io/streak-stats" style="display: block; width: 100%; max-width: 500px; margin: 10px;">
+            <img src="https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical" alt="GitHub Streak" style="width: 100%; border-radius: 8px;">
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block; width: 100%; max-width: 500px; margin: 10px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; border-radius: 8px;">
+        </a>
+    </div> 
+ ---
