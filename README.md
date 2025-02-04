@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://github.com/matyo91/matyo91/raw/main/assets/github.gif](https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/471546819_2584270808435736_2274969574795758737_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHOm5p-MKE5j2CmmrDaR_pAzeXXOmEilbfN5dc6YSKVt1I4tkCDXXsG_DpQtWPCI2cdI4aylJJOasVHOWjv2Ru_&_nc_ohc=CHSY-HpvgUIQ7kNvgGVTN9m&_nc_zt=23&_nc_ht=scontent.fjsr17-1.fna&_nc_gid=AK5w0EUwhLRIgn8KWm2K4Oy&oh=00_AYAomoIxW1nYj0gJQxQIj2HDDbWcWrco0FAuz0kgPvvMwA&oe=67A81AA4)" alt="Hi, I'm Md Mueid Mia 👋 I'm a 🚀 Web developer 🚀 ">
-</p>
+![Front-End Web Developer](https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/471546819_2584270808435736_2274969574795758737_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHOm5p-MKE5j2CmmrDaR_pAzeXXOmEilbfN5dc6YSKVt1I4tkCDXXsG_DpQtWPCI2cdI4aylJJOasVHOWjv2Ru_&_nc_ohc=KetbI32Pxf8Q7kNvgFhJNeS&_nc_zt=23&_nc_ht=scontent.fjsr17-1.fna&_nc_gid=AV0VahabEpAEoPVqfYvgPY6&oh=00_AYAbuIVgSYYf_i3PJ7U-bYTfwQ5QD_H_g58opjWb5s3jjA&oe=67A53F64)
 
 # 👋 Hi there! I'm **Md Mueid Mia**  
 ## 🚀 Front-End Web Developer | Back-end Developer | Crafting Modern Web Experiences  
