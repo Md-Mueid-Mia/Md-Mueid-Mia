@@ -62,14 +62,15 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 
 ### <h3 align="center">📈 Stats & Achievements</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
-  <a href="https://git.io/streak-stats" style="display: block;">
-    <img src="https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 300px; border-radius: 8px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; max-width: 800px; margin: 0 auto;">
+  <a href="https://git.io/streak-stats" style="display: block; flex: 1; text-align: center;">
+    <img src="https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 350px; border-radius: 8px;">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 300px; border-radius: 8px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block; flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 350px; border-radius: 8px;">
   </a>
 </div>
+
 
 
 
