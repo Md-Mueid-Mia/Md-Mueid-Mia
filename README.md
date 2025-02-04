@@ -63,10 +63,10 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
      <a href="https://git.io/streak-stats" target="_blank" style="display: inline; flex: 1;  text-align: center;">
-                <img src="https://nirzak-streak-stats.vercel.app?user=Md-Mueid-Mia&theme=dark" alt="GitHub Streak" style="width:350px; border-radius: 8px;>
+                <img src="https://nirzak-streak-stats.vercel.app?user=Md-Mueid-Mia&theme=dark" alt="GitHub Streak" style="width:400px; border-radius: 8px;>
             </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline; flex: 1;  text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style="width:350px; border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style="width:400px; border-radius: 8px;">
   </a>
 </div>
 
