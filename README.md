@@ -3,13 +3,13 @@
 # 👋 Hi there! I'm **Md Mueid Mia**  
 ## 🚀 Front-End Web Developer | Back-end Developer  
 
-I'm a passionate **Front-End Web Developer** with **1 year of professional experience**, creating dynamic and user-focused web applications. With a strong foundation in **HTML, CSS, Tailwind CSS, JavaScript, and React**, along with back-end expertise in **Node.js, Express, Firebase, JWT, and MongoDB**, I deliver seamless full-stack solutions that bridge design and functionality.  
+I'm a passionate Front-End Web Developer and Full-Stack Developer who creates dynamic and user-focused web applications. With a strong foundation in HTML, CSS, Tailwind CSS, JavaScript, and React and back-end expertise in Node.js, Express, Firebase, JWT, and MongoDB, I deliver seamless full-stack solutions that bridge design and functionality.  
 
 I strive to create **clean, responsive, and engaging user interfaces** while keeping up with the latest web development trends. Whether it's working solo or collaborating in a team, I bring creativity, precision, and dedication to every project.  
 
 ### **🌟 Current Focus**  
-- 🔭 Currently working on **RecoSphere.com**  
-- 🌱 Exploring **Next.js** for building faster, SEO-friendly apps  
+- 🔭 I’m working on a tourism website.  
+- 🌱 Exploring **Next.js** for building a faster, SEO-friendly Website. 
 - 👯 Looking to collaborate on innovative **open-source projects**  
 - 💬 Feel free to reach out about **Web Development, React, or Full-Stack solutions**  
 
