@@ -64,10 +64,10 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-direction: row; flex-wrap: nowrap;">
   <a href="https://git.io/streak-stats" >
-    <img src="https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical" alt="GitHub Streak" style="width: 100%; border-radius: 8px;">
+    <img src="https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical" alt="GitHub Streak" style="width: 50%; border-radius: 8px;">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Md-Mueid-Mia&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%; border-radius: 8px;">
   </a>
 </div>
 
