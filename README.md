@@ -60,7 +60,7 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 
 ---
 
-### 📈 Stats & Achievements
+### <h3 align="center">📈 Stats & Achievements</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical)](https://git.io/streak-stats)
 
@@ -68,7 +68,7 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 
 ---
 
-### 📫 Get in Touch
+### <h3 align="center">📫 Get in Touch</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-mueid-mia" target="_blank">
