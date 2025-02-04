@@ -62,7 +62,7 @@ I strive to create **clean, responsive, and engaging user interfaces** while kee
 
 ### <h3 align="center">📈 Stats & Achievements</h3>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-direction: row; flex-wrap: nowrap;">
   <a href="https://git.io/streak-stats" style="display: block; max-width: 500px;">
     <img src="https://streak-stats.demolab.com/?user=Md-Mueid-Mia&theme=radical" alt="GitHub Streak" style="width: 100%; border-radius: 8px;">
   </a>
